@@ -26,7 +26,7 @@
     {
       "numero": "AP-101",
       "andar": 1,
-      "valor": 290
+      "valor": 0
     },
     {
       "numero": "AP-102",
@@ -86,12 +86,108 @@
   ],
   "despesas": [
     {
-      "descricao": "Agua",
-      "valor": 900
+      "descricao": "ALLIANZ SEGUR",
+      "valor": 320.55
     },
     {
-      "descricao": "Energia",
+      "descricao": "INTEGR.CAPITAL SUBSCRITO",
+      "valor": 60
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "SERVIÇO EXTRA ZELADOR",
+      "valor": 30
+    },
+    {
+      "descricao": "GK ARMAZEM DE CONST",
+      "valor": 40.98
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 12
+    },
+    {
+      "descricao": "GK ARMAZEM DE CONST",
+      "valor": 5
+    },
+    {
+      "descricao": "LAVAGEM DA CISTERNA 1/2",
+      "valor": 200
+    },
+    {
+      "descricao": "MATERIAL DE ELETRICA",
+      "valor": 42.9
+    },
+    {
+      "descricao": "MATERIAL DE ELETRICA",
+      "valor": 67.9
+    },
+    {
+      "descricao": "MATERIAL DE LIMPEZA",
+      "valor": 15.98
+    },
+    {
+      "descricao": "MATERIAL DE ELETRICA",
+      "valor": 16
+    },
+    {
+      "descricao": "CESTA DE RELACIONAMENTO",
+      "valor": 56.5
+    },
+    {
+      "descricao": "GK ARMAZEM DE CONST",
+      "valor": 36.9
+    },
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
+      "valor": 100
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 8
+    },
+    {
+      "descricao": "ENERGIA CELPE",
+      "valor": 294.96
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 8
+    },
+    {
+      "descricao": "SINDICO",
+      "valor": 800
+    },
+    {
+      "descricao": "FILTRO 1/2",
+      "valor": 750
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 12
+    },
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
       "valor": 300
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 8
+    },
+    {
+      "descricao": "LAVAGEM CISTERNA 2/2",
+      "valor": 100
+    },
+    {
+      "descricao": "COMPESA AGUA",
+      "valor": 988.32
     }
   ],
   "saldoAnterior": 1000,
