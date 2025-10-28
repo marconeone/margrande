@@ -1,0 +1,11 @@
+{
+  "ano": 2025,
+  "mes": 9,
+  "reservas": [
+    {
+      "dataISO": "2025-10-30",
+      "ap": "101",
+      "horario": "Manhã"
+    }
+  ]
+}
