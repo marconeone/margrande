@@ -84,16 +84,7 @@
       "valor": 290
     }
   ],
-  "despesas": [
-    {
-      "descricao": "Agua",
-      "valor": 900
-    },
-    {
-      "descricao": "Energia",
-      "valor": 300
-    }
-  ],
+  "despesas": [],
   "saldoAnterior": 1000,
   "inadimplencia": 0,
   "dataInadimplencia": "01/10/2025"
