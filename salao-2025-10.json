@@ -9,8 +9,13 @@
     },
     {
       "dataISO": "25/10/2025",
-      "ap": "203",
-      "horario": "Manhã"
+      "ap": "301",
+      "horario": "ManhÃ£"
+    },
+    {
+      "dataISO": "15/10/2025",
+      "ap": "202",
+      "horario": "Dia inteiro"
     }
   ]
 }
