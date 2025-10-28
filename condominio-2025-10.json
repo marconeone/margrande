@@ -84,8 +84,37 @@
       "valor": 290
     }
   ],
-  "despesas": [],
-  "saldoAnterior": 457.59,
+  "despesas": [
+    {
+      "descricao": "ALLIANZ SEGUR",
+      "valor": 320.55
+    },
+    {
+      "descricao": "INTEGR.CAPITAL SUBSCRITO",
+      "valor": 60
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "EXTRA ZELADOR",
+      "valor": 30
+    },
+    {
+      "descricao": "GK ARMAZEM DE CONST",
+      "valor": 40.98
+    },
+    {
+      "descricao": "",
+      "valor": 0
+    },
+    {
+      "descricao": "",
+      "valor": 0
+    }
+  ],
+  "saldoAnterior": 1000,
   "inadimplencia": 0,
   "dataInadimplencia": "01/10/2025"
 }
