@@ -56,12 +56,12 @@
     {
       "numero": "AP-203",
       "andar": 2,
-      "valor": 290
+      "valor": 296.23
     },
     {
       "numero": "AP-204",
       "andar": 2,
-      "valor": 290
+      "valor": 296.23
     },
     {
       "numero": "AP-301",
@@ -81,7 +81,7 @@
     {
       "numero": "AP-304",
       "andar": 3,
-      "valor": 290
+      "valor": 296.06
     }
   ],
   "despesas": [
