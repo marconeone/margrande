@@ -5,7 +5,12 @@
     {
       "dataISO": "2025-10-30",
       "ap": "101",
-      "horario": "Manhã"
+      "horario": "ManhÃ£"
+    },
+    {
+      "dataISO": "2025-10-16",
+      "ap": "03",
+      "horario": "Dia inteiro"
     }
   ]
 }
