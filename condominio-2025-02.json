@@ -3,15 +3,15 @@
   "ano": 2025,
   "pagamentosNaoCorrespondentes": [
     {
-      "descricao": "AP301 3/25",
+      "descricao": "04 3/25",
       "valor": 290
     },
     {
-      "descricao": "AP04 3/25",
+      "descricao": "301 3/25",
       "valor": 290
     },
     {
-      "descricao": "AP304 1/25",
+      "descricao": "304 1/25",
       "valor": 297.93
     }
   ],
@@ -19,7 +19,7 @@
     {
       "numero": "AP-01",
       "andar": 0,
-      "valor": 295.9
+      "valor": 295
     },
     {
       "numero": "AP-02",
