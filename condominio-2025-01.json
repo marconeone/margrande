@@ -6,22 +6,22 @@
     {
       "numero": "AP-01",
       "andar": 0,
-      "valor": 0
+      "valor": 296.19
     },
     {
       "numero": "AP-02",
       "andar": 0,
-      "valor": 0
+      "valor": 290
     },
     {
       "numero": "AP-03",
       "andar": 0,
-      "valor": 0
+      "valor": 290
     },
     {
       "numero": "AP-04",
       "andar": 0,
-      "valor": 0
+      "valor": 290
     },
     {
       "numero": "AP-101",
@@ -31,37 +31,37 @@
     {
       "numero": "AP-102",
       "andar": 1,
-      "valor": 0
+      "valor": 290
     },
     {
       "numero": "AP-103",
       "andar": 1,
-      "valor": 0
+      "valor": 290
     },
     {
       "numero": "AP-104",
       "andar": 1,
-      "valor": 0
+      "valor": 290
     },
     {
       "numero": "AP-201",
       "andar": 2,
-      "valor": 0
+      "valor": 296.48
     },
     {
       "numero": "AP-202",
       "andar": 2,
-      "valor": 0
+      "valor": 290
     },
     {
       "numero": "AP-203",
       "andar": 2,
-      "valor": 0
+      "valor": 290
     },
     {
       "numero": "AP-204",
       "andar": 2,
-      "valor": 0
+      "valor": 290
     },
     {
       "numero": "AP-301",
@@ -76,7 +76,7 @@
     {
       "numero": "AP-303",
       "andar": 3,
-      "valor": 0
+      "valor": 290
     },
     {
       "numero": "AP-304",
@@ -84,8 +84,57 @@
       "valor": 0
     }
   ],
-  "despesas": [],
-  "saldoAnterior": 0,
+  "despesas": [
+    {
+      "descricao": "INTEGRALIZAÇÃO CAPITAL",
+      "valor": 60
+    },
+    {
+      "descricao": "RECARGA DE EXTINTORES",
+      "valor": 275
+    },
+    {
+      "descricao": "CESTA DE RELACIONAMENTO",
+      "valor": 56.5
+    },
+    {
+      "descricao": "CELPE ENERGIA",
+      "valor": 247
+    },
+    {
+      "descricao": "ALLIANZ SEGUROS",
+      "valor": 256.54
+    },
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "ÁGUA COMPESA",
+      "valor": 898.56
+    },
+    {
+      "descricao": "FITA DUPLAFACE",
+      "valor": 17.96
+    },
+    {
+      "descricao": "RENOVE ENGENHARIA",
+      "valor": 1180
+    },
+    {
+      "descricao": "FITA ISOLANTE E T",
+      "valor": 10
+    },
+    {
+      "descricao": "PAGAMENTO ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "SINDICO",
+      "valor": 800
+    }
+  ],
+  "saldoAnterior": 1242.71,
   "inadimplencia": 0,
   "dataInadimplencia": "01/10/2025"
 }
