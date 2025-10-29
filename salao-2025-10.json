@@ -11,6 +11,11 @@
       "dataISO": "2025-10-27",
       "ap": "02",
       "horario": "Tarde"
+    },
+    {
+      "dataISO": "2025-10-31",
+      "ap": "104",
+      "horario": "Manha"
     }
   ]
 }
