@@ -97,8 +97,73 @@
       "valor": 0
     }
   ],
-  "despesas": [],
-  "saldoAnterior": 0,
+  "despesas": [
+    {
+      "descricao": "ALLIANZ SEGUR",
+      "valor": 320.55
+    },
+    {
+      "descricao": "INTEGRAÇÃO CAPITAL SUBSCRITO",
+      "valor": 60
+    },
+    {
+      "descricao": "CESTA DE RELACIONAMENTO",
+      "valor": 56.5
+    },
+    {
+      "descricao": "CELPE ENERGIA",
+      "valor": 263.77
+    },
+    {
+      "descricao": "MATERIAL DE LIMPEZA",
+      "valor": 39.95
+    },
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "SÍNDICO",
+      "valor": 800
+    },
+    {
+      "descricao": "BALDE E PAST. CLORO",
+      "valor": 35.81
+    },
+    {
+      "descricao": "ÁGUA COMPESA",
+      "valor": 988.32
+    },
+    {
+      "descricao": "RENOVE ENGENHARIA",
+      "valor": 1190
+    },
+    {
+      "descricao": "RENOVE ENGENHARIA / AREA LAZER",
+      "valor": 1258.5
+    },
+    {
+      "descricao": "BATERIA PORTA DE VIDRO",
+      "valor": 21.99
+    },
+    {
+      "descricao": "VENENO P/ BARATAS",
+      "valor": 14
+    },
+    {
+      "descricao": "ESSENCIA CONDOMINIO",
+      "valor": 22
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 4
+    },
+    {
+      "descricao": "ZELADOR",
+      "valor": 300
+    }
+  ],
+  "saldoAnterior": 13182.85,
   "inadimplencia": 0,
   "dataInadimplencia": "01/10/2025"
 }
