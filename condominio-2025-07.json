@@ -1,0 +1,108 @@
+{
+  "mes": 6,
+  "ano": 2025,
+  "pagamentosNaoCorrespondentes": [
+    {
+      "descricao": "02 8/25",
+      "valor": 290
+    },
+    {
+      "descricao": "03 8/25",
+      "valor": 290
+    },
+    {
+      "descricao": "03 6/25",
+      "valor": 380.39
+    },
+    {
+      "descricao": "304 6/25",
+      "valor": 379.96
+    }
+  ],
+  "apartamentos": [
+    {
+      "numero": "AP-01",
+      "andar": 0,
+      "valor": 371.16
+    },
+    {
+      "numero": "AP-02",
+      "andar": 0,
+      "valor": 371.16
+    },
+    {
+      "numero": "AP-03",
+      "andar": 0,
+      "valor": 0
+    },
+    {
+      "numero": "AP-04",
+      "andar": 0,
+      "valor": 371.16
+    },
+    {
+      "numero": "AP-101",
+      "andar": 1,
+      "valor": 81.16
+    },
+    {
+      "numero": "AP-102",
+      "andar": 1,
+      "valor": 371.16
+    },
+    {
+      "numero": "AP-103",
+      "andar": 1,
+      "valor": 378.22
+    },
+    {
+      "numero": "AP-104",
+      "andar": 1,
+      "valor": 371.16
+    },
+    {
+      "numero": "AP-201",
+      "andar": 2,
+      "valor": 371.16
+    },
+    {
+      "numero": "AP-202",
+      "andar": 2,
+      "valor": 371.16
+    },
+    {
+      "numero": "AP-203",
+      "andar": 2,
+      "valor": 371.16
+    },
+    {
+      "numero": "AP-204",
+      "andar": 2,
+      "valor": 0
+    },
+    {
+      "numero": "AP-301",
+      "andar": 3,
+      "valor": 0
+    },
+    {
+      "numero": "AP-302",
+      "andar": 3,
+      "valor": 371.16
+    },
+    {
+      "numero": "AP-303",
+      "andar": 3,
+      "valor": 371.16
+    },
+    {
+      "numero": "AP-304",
+      "andar": 3,
+      "valor": 0
+    }
+  ],
+  "despesas": [],
+  "saldoAnterior": 7797.56,
+  "inadimplencia": 0,
+  "dataInadimplencia": "01/10/2025"
+}
