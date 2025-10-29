@@ -93,7 +93,64 @@
       "valor": 0
     }
   ],
-  "despesas": [],
+  "despesas": [
+    {
+      "descricao": "INTEGRAÇÃO CAPITAL SUBSCRITO",
+      "valor": 60
+    },
+    {
+      "descricao": "5 VASOS P/ O PREDIO 2/2",
+      "valor": 249.75
+    },
+    {
+      "descricao": "INTEGRAÇÃO CAPITAL SUBSCRITO",
+      "valor": 56.5
+    },
+    {
+      "descricao": "RESMA DE PAPEL A4",
+      "valor": 23
+    },
+    {
+      "descricao": "ALLIANZ SEGUR",
+      "valor": 320.55
+    },
+    {
+      "descricao": "CELPE ENERGIA",
+      "valor": 427.2
+    },
+    {
+      "descricao": "FITA DUPLA-FACE",
+      "valor": 17.96
+    },
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "BAIXA DE TITULO",
+      "valor": 4
+    },
+    {
+      "descricao": "SÍNDICO",
+      "valor": 800
+    },
+    {
+      "descricao": "ÁGUA COMPESA",
+      "valor": 898.56
+    },
+    {
+      "descricao": "RENOVE ENGENHARIA",
+      "valor": 1190
+    },
+    {
+      "descricao": "ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "RENOVE ENGENHARIA/ AREA LAZER",
+      "valor": 1298.5
+    }
+  ],
   "saldoAnterior": 1558.5,
   "inadimplencia": 0,
   "dataInadimplencia": "01/10/2025"
