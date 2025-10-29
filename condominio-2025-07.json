@@ -233,6 +233,10 @@
     {
       "descricao": "TARIFA COM R LIQUIDACAO",
       "valor": 4
+    },
+    {
+      "descricao": "LAMPADAS",
+      "valor": 39.8
     }
   ],
   "saldoAnterior": 7797.56,
