@@ -97,7 +97,64 @@
       "valor": 0
     }
   ],
-  "despesas": [],
+  "despesas": [
+    {
+      "descricao": "CAMERA IM1 INTELBRAS",
+      "valor": 184.9
+    },
+    {
+      "descricao": "PRATOS PARA PLANTAS",
+      "valor": 35
+    },
+    {
+      "descricao": "CHAVES DA GUARITA",
+      "valor": 90
+    },
+    {
+      "descricao": "CESTA DE RELACIONAMENTO",
+      "valor": 56.5
+    },
+    {
+      "descricao": "INTEGRAÇÃO CAPITAL SUBSCRITO",
+      "valor": 60
+    },
+    {
+      "descricao": "CELPE ENERGIA",
+      "valor": 113.75
+    },
+    {
+      "descricao": "5 VASOS P/ O PREDIO 1/2",
+      "valor": 249.75
+    },
+    {
+      "descricao": "MANUTENÇÃO INTERFONE",
+      "valor": 75
+    },
+    {
+      "descricao": "ÁGUA COMPESA",
+      "valor": 898.56
+    },
+    {
+      "descricao": "ZELADOR",
+      "valor": 600
+    },
+    {
+      "descricao": "MATERIAL DE LIMPEZA",
+      "valor": 167.06
+    },
+    {
+      "descricao": "FIO PARA CORTADOR DE GRAMA",
+      "valor": 13.21
+    },
+    {
+      "descricao": "RENOVE ENGENHARIA",
+      "valor": 1190
+    },
+    {
+      "descricao": "SINDICO",
+      "valor": 800
+    }
+  ],
   "saldoAnterior": 1183.22,
   "inadimplencia": 0,
   "dataInadimplencia": "01/10/2025"
