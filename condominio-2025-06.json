@@ -101,8 +101,97 @@
       "valor": 0
     }
   ],
-  "despesas": [],
-  "saldoAnterior": 0,
+  "despesas": [
+    {
+      "descricao": "ALLIANZ SEGUR",
+      "valor": 320.55
+    },
+    {
+      "descricao": "REMOÇÃO DE LIXO",
+      "valor": 30
+    },
+    {
+      "descricao": "INTEGRAÇÃO CAPITAL SUBSCRITO",
+      "valor": 60
+    },
+    {
+      "descricao": "DESENTUPIDOR",
+      "valor": 15
+    },
+    {
+      "descricao": "DESOBSTRUIR TUBULAÇÃO",
+      "valor": 400
+    },
+    {
+      "descricao": "LIMPEZA CAIXA DE GORDURA",
+      "valor": 100
+    },
+    {
+      "descricao": "CESTA DE RELACIONAMENTO",
+      "valor": 56.5
+    },
+    {
+      "descricao": "REPARO LAJOTA",
+      "valor": 30
+    },
+    {
+      "descricao": "1 LAJOTA",
+      "valor": 8
+    },
+    {
+      "descricao": "COBERTA P/ MAQUISE THOMAZ",
+      "valor": 650
+    },
+    {
+      "descricao": "LIMPEZA ESGOTO PARTE TRAZ.",
+      "valor": 250
+    },
+    {
+      "descricao": "CELPE ENERGIA",
+      "valor": 270.59
+    },
+    {
+      "descricao": "SÍNDICO",
+      "valor": 800
+    },
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "MATERIAL DE CONSTRUÇÃO",
+      "valor": 312
+    },
+    {
+      "descricao": "ADIANTAMENTO PEDREIRO",
+      "valor": 200
+    },
+    {
+      "descricao": "TAMPA DE ALUMINIO CISTERNA 1/2",
+      "valor": 250
+    },
+    {
+      "descricao": "ÁGUA COMPESA",
+      "valor": 988.32
+    },
+    {
+      "descricao": "RENOVE ENGENHARIA",
+      "valor": 1350
+    },
+    {
+      "descricao": "MESAS E CADEIRAS",
+      "valor": 2500
+    },
+    {
+      "descricao": "12 LAJOTAS",
+      "valor": 105
+    },
+    {
+      "descricao": "",
+      "valor": 0
+    }
+  ],
+  "saldoAnterior": 13937.52,
   "inadimplencia": 0,
   "dataInadimplencia": "01/10/2025"
 }
