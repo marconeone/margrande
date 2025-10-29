@@ -187,8 +187,56 @@
       "valor": 105
     },
     {
-      "descricao": "",
-      "valor": 0
+      "descricao": "TAMPA DE ALUMINIO CISTERNA 2/2",
+      "valor": 250
+    },
+    {
+      "descricao": "PASTILHA PARA CISTERNA",
+      "valor": 120.42
+    },
+    {
+      "descricao": "PEDREIRO 2/2",
+      "valor": 700
+    },
+    {
+      "descricao": "2 ROTEADORES CAMERAS",
+      "valor": 418.8
+    },
+    {
+      "descricao": "MATERIAL DE CONSTRUÇÃO",
+      "valor": 34
+    },
+    {
+      "descricao": "CAIXA DE PASTILHAS",
+      "valor": 120.42
+    },
+    {
+      "descricao": "TRANSPORTE E MATERIAL DE CONTRUÇÃO",
+      "valor": 12.13
+    },
+    {
+      "descricao": "ZELADOR",
+      "valor": 300
+    },
+    {
+      "descricao": "MATERIAL DE CONSTRUÇÃO",
+      "valor": 5.4
+    },
+    {
+      "descricao": "PAGAMENTO PEDREIRO",
+      "valor": 50
+    },
+    {
+      "descricao": "MANUTENÇÃO CERCA ELETRICA",
+      "valor": 175
+    },
+    {
+      "descricao": "FRETE TAMPA CISTERNA",
+      "valor": 30
+    },
+    {
+      "descricao": "OUTROS",
+      "valor": 599
     }
   ],
   "saldoAnterior": 13937.52,
