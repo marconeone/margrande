@@ -1,0 +1,26 @@
+{
+  "ano": 2025,
+  "mes": 11,
+  "reservas": [
+    {
+      "dataISO": "2025-10-29",
+      "ap": "204",
+      "horario": "Manha"
+    },
+    {
+      "dataISO": "2025-10-27",
+      "ap": "02",
+      "horario": "Tarde"
+    },
+    {
+      "dataISO": "2025-10-31",
+      "ap": "104",
+      "horario": "Manha"
+    },
+    {
+      "dataISO": "2025-12-18",
+      "ap": "203",
+      "horario": "Tarde"
+    }
+  ]
+}
