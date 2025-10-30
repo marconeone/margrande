@@ -2,10 +2,5 @@
   "ano": 2025,
   "mes": 9,
   "reservas": [
-    {
-      "dataISO": "2025-10-29",
-      "ap": "204",
-      "horario": "Manha"
-    }
   ]
 }
