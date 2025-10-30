@@ -186,8 +186,12 @@
       "valor": 988.32
     },
     {
-      "descricao": "Interfone",
+      "descricao": "MANUTENÇÃO INTERFONE",
       "valor": 150
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 8
     }
   ],
   "saldoAnterior": 457.59,
