@@ -78,7 +78,7 @@
     {
       "numero": "AP-301",
       "andar": 3,
-      "valor": 0,
+      "valor": 290,
       "situacao": ""
     },
     {
@@ -101,7 +101,7 @@
     }
   ],
   "despesas": [],
-  "saldoAnterior": 0,
+  "saldoAnterior": 766.12,
   "inadimplencia": 0,
   "dataInadimplencia": "01/10/2025"
 }
