@@ -1,7 +1,16 @@
 {
   "mes": 9,
   "ano": 2025,
-  "pagamentosNaoCorrespondentes": [],
+  "pagamentosNaoCorrespondentes": [
+    {
+      "descricao": "104 11/25",
+      "valor": 290
+    },
+    {
+      "descricao": "02 11/25",
+      "valor": 290
+    }
+  ],
   "apartamentos": [
     {
       "numero": "AP-01",
@@ -208,6 +217,14 @@
     {
       "descricao": "TARIFA COM R LIQUIDACAO",
       "valor": 8
+    },
+    {
+      "descricao": "TARIFA COM R LIQUIDACAO",
+      "valor": 8
+    },
+    {
+      "descricao": "ADIANTAMENTO ZELADOR",
+      "valor": 200
     }
   ],
   "saldoAnterior": 457.59,
