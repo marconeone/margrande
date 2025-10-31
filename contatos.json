@@ -1,0 +1,26 @@
+{
+  "grupos": [
+    {
+      "titulo": "Síndico",
+      "contatos": [
+        {
+          "nome": "Síndico",
+          "whatsapp": "5588999999999"
+        }
+      ]
+    },
+    {
+      "titulo": "Conselho Fiscal",
+      "contatos": [
+        {
+          "nome": "Conselho 1",
+          "whatsapp": "55889999888896666"
+        },
+        {
+          "nome": "Conselho 2",
+          "whatsapp": "5588999995555"
+        }
+      ]
+    }
+  ]
+}
