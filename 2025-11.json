@@ -1,13 +1,5 @@
 {
   "month": "2025-11",
-  "incomes": [
-    {
-      "id": "4z4qz0w",
-      "desc": "gfdgf",
-      "value": 2500,
-      "date": "2025-11-13",
-      "category": "Salário"
-    }
-  ],
+  "incomes": [],
   "expenses": []
 }
