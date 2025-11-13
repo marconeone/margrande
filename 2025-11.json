@@ -1,0 +1,83 @@
+{
+  "month": "2025-11",
+  "incomes": [
+    {
+      "id": "zmf9vtg",
+      "desc": "Salario",
+      "value": 2500,
+      "date": "2025-11-13",
+      "category": "Empresa"
+    },
+    {
+      "id": "m9jzt6w",
+      "desc": "Salario sindico",
+      "value": 800,
+      "date": "2025-11-12",
+      "category": "Frelancer"
+    },
+    {
+      "id": "qxe1w3j",
+      "desc": "Criação de site",
+      "value": 150,
+      "date": "2025-11-12",
+      "category": "Frelance"
+    },
+    {
+      "id": "cpyafki",
+      "desc": "Passagem",
+      "value": 600,
+      "date": "2025-11-01",
+      "category": "Passagem"
+    }
+  ],
+  "expenses": [
+    {
+      "id": "ngsbdmv",
+      "desc": "Apartamento",
+      "value": 1350,
+      "date": "2025-11-13",
+      "category": "Moradia",
+      "active": true
+    },
+    {
+      "id": "p3v5x68",
+      "desc": "Maquina de lavar",
+      "value": 350,
+      "date": "2025-11-12",
+      "category": "Moradia",
+      "active": true
+    },
+    {
+      "id": "oy06l4k",
+      "desc": "Internet",
+      "value": 59.9,
+      "date": "2025-11-13",
+      "category": "Internet",
+      "active": true
+    },
+    {
+      "id": "yd0mkrs",
+      "desc": "Celpe",
+      "value": 354.9,
+      "date": "2025-11-12",
+      "category": "Celpe",
+      "active": true
+    },
+    {
+      "id": "j9fekay",
+      "desc": "Roupas",
+      "value": 140,
+      "date": "2025-11-13",
+      "category": "Roupas",
+      "active": true
+    },
+    {
+      "id": "pwgl32a",
+      "desc": "Agua",
+      "value": 18,
+      "date": "2025-11-13",
+      "category": "Outros",
+      "active": true
+    }
+  ]
+}
